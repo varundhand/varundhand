@@ -1,10 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://varundhand.io)
 
 <h1 align="center">It's me VARUN 😈</h1>
-<h3 align="center">DJANGO DEVELOPER</h3>
+<h3 align="center">I build stuff</h3>
+<hr>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/WavyQualifiedDogfish-size_restricted.gif"
 
-🌍  I'm based in New Delhi, India<br>🔭 I’m currently working on DevSearch(https://github.com/varundhand/DevSearch)<br>👯 I’m looking to collaborate on Django Projects<br>🌱 I’m currently learning React JS and Node JS<br>💬 Ask me about Django and Django Rest Framework<br>📫 How to reach me varundhand77@gmail.com<br>⚡ Fun fact: I am obsessed with Sidemen
+🌍  I'm based in New Delhi, India<br>🔭 I’m currently working on [DevSearch](https://github.com/varundhand/DevSearch)<br>👯 I’m looking to collaborate on Django Projects<br>🌱 I’m currently learning React JS and Node JS<br>💬 Ask me about Django and Django Rest Framework<br>📫 How to reach me varundhand77@gmail.com<br>⚡ Fun fact: I am obsessed with Sidemen
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
