@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codewithvroon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithvroon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/varundhand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varundhand/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varundhand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varundhand/" height="30" width="40" /></a>
 <a href="https://discord.gg/VrooN_CODES#8506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VrooN_CODES#8506" height="30" width="40" /></a>
 <a href="https://www.commudle.com/users/vroon" target="blank"><img align="center" src="https://www.commudle.com/assets/images/commudle-logo192.png" alt="Commudle Profile" height="35" width="35" /></a>
 <a href="https://codewithvroon.hashnode.dev/" target="blank" ><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode Profile" height="30" width="30" /></a>
