@@ -5,7 +5,7 @@
 <hr>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/WavyQualifiedDogfish-size_restricted.gif"
 
-🌍  I'm based in New Delhi, India<br>🔭 I’m currently working on [CodeDiary](https://code-diary.vercel.app/)<br>👯 I’m looking to collaborate on Django & NextJs Projects<br>🌱 I’m currently learning Next JS and Node JS<br>📫 How to reach me varundhand77@gmail.com<br>⚡ Fun fact: I am obsessed with Sidemen<br>🔗 Checkout my Portfolio Website https://varundhand.netlify.app/
+🌍  I'm based in Vancouver, Canada.<br>🔭 I’m currently working on [CodeDiary](https://code-diary.vercel.app/)<br>👯 I’m looking to collaborate on Django & NextJs Projects<br>🌱 I’m currently learning Next JS and Node JS<br>📫 How to reach me varundhand77@gmail.com<br>⚡ Fun fact: I am obsessed with Sidemen<br>🔗 Checkout my Portfolio Website https://varundhand.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
